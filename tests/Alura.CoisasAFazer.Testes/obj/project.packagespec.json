@@ -1,0 +1,81 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "C:\\Users\\matheus.brenner\\Desktop\\testes-integracao.video6.2\\testes-integracao\\tests\\Alura.CoisasAFazer.Testes\\Alura.CoisasAFazer.Testes.csproj",
+    "projectName": "Alura.CoisasAFazer.Testes",
+    "projectPath": "C:\\Users\\matheus.brenner\\Desktop\\testes-integracao.video6.2\\testes-integracao\\tests\\Alura.CoisasAFazer.Testes\\Alura.CoisasAFazer.Testes.csproj",
+    "outputPath": "C:\\Users\\matheus.brenner\\Desktop\\testes-integracao.video6.2\\testes-integracao\\tests\\Alura.CoisasAFazer.Testes\\obj\\",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.2"
+    ],
+    "sources": {
+      "http://artifactory.softplan.com.br/artifactory/api/nuget/v3/nuget-local": {},
+      "https://api.nuget.org/v3/index.json": {}
+    },
+    "frameworks": {
+      "netcoreapp2.2": {
+        "projectReferences": {
+          "C:\\Users\\matheus.brenner\\Desktop\\testes-integracao.video6.2\\testes-integracao\\src\\Alura.CoisasAFazer.Core\\Alura.CoisasAFazer.Core.csproj": {
+            "projectPath": "C:\\Users\\matheus.brenner\\Desktop\\testes-integracao.video6.2\\testes-integracao\\src\\Alura.CoisasAFazer.Core\\Alura.CoisasAFazer.Core.csproj"
+          },
+          "C:\\Users\\matheus.brenner\\Desktop\\testes-integracao.video6.2\\testes-integracao\\src\\Alura.CoisasAFazer.Services\\Alura.CoisasAFazer.Services.csproj": {
+            "projectPath": "C:\\Users\\matheus.brenner\\Desktop\\testes-integracao.video6.2\\testes-integracao\\src\\Alura.CoisasAFazer.Services\\Alura.CoisasAFazer.Services.csproj"
+          },
+          "C:\\Users\\matheus.brenner\\Desktop\\testes-integracao.video6.2\\testes-integracao\\src\\Alura.CoisasAFazer.WebApp\\Alura.CoisasAFazer.WebApp.csproj": {
+            "projectPath": "C:\\Users\\matheus.brenner\\Desktop\\testes-integracao.video6.2\\testes-integracao\\src\\Alura.CoisasAFazer.WebApp\\Alura.CoisasAFazer.WebApp.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.2": {
+      "dependencies": {
+        "Microsoft.AspNetCore.Mvc.Core": {
+          "target": "Package",
+          "version": "[2.2.5, )"
+        },
+        "Microsoft.EntityFrameworkCore.InMemory": {
+          "target": "Package",
+          "version": "[2.2.6, )"
+        },
+        "Microsoft.NET.Test.Sdk": {
+          "target": "Package",
+          "version": "[15.9.0, )"
+        },
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.2.0, )",
+          "autoReferenced": true
+        },
+        "Moq": {
+          "target": "Package",
+          "version": "[4.12.0, )"
+        },
+        "xunit": {
+          "target": "Package",
+          "version": "[2.4.0, )"
+        },
+        "xunit.runner.visualstudio": {
+          "target": "Package",
+          "version": "[2.4.0, )"
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

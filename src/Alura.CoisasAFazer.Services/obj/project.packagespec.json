@@ -1,0 +1,54 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "C:\\Users\\matheus.brenner\\Desktop\\testes-integracao.video6.2\\testes-integracao\\src\\Alura.CoisasAFazer.Services\\Alura.CoisasAFazer.Services.csproj",
+    "projectName": "Alura.CoisasAFazer.Services",
+    "projectPath": "C:\\Users\\matheus.brenner\\Desktop\\testes-integracao.video6.2\\testes-integracao\\src\\Alura.CoisasAFazer.Services\\Alura.CoisasAFazer.Services.csproj",
+    "outputPath": "C:\\Users\\matheus.brenner\\Desktop\\testes-integracao.video6.2\\testes-integracao\\src\\Alura.CoisasAFazer.Services\\obj\\",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netstandard2.0"
+    ],
+    "sources": {
+      "http://artifactory.softplan.com.br/artifactory/api/nuget/v3/nuget-local": {},
+      "https://api.nuget.org/v3/index.json": {}
+    },
+    "frameworks": {
+      "netstandard2.0": {
+        "projectReferences": {
+          "C:\\Users\\matheus.brenner\\Desktop\\testes-integracao.video6.2\\testes-integracao\\src\\Alura.CoisasAFazer.Core\\Alura.CoisasAFazer.Core.csproj": {
+            "projectPath": "C:\\Users\\matheus.brenner\\Desktop\\testes-integracao.video6.2\\testes-integracao\\src\\Alura.CoisasAFazer.Core\\Alura.CoisasAFazer.Core.csproj"
+          },
+          "C:\\Users\\matheus.brenner\\Desktop\\testes-integracao.video6.2\\testes-integracao\\src\\Alura.CoisasAFazer.Infrastructure\\Alura.CoisasAFazer.Infrastructure.csproj": {
+            "projectPath": "C:\\Users\\matheus.brenner\\Desktop\\testes-integracao.video6.2\\testes-integracao\\src\\Alura.CoisasAFazer.Infrastructure\\Alura.CoisasAFazer.Infrastructure.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netstandard2.0": {
+      "dependencies": {
+        "NETStandard.Library": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.0.3, )",
+          "autoReferenced": true
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

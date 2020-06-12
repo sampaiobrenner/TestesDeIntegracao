@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "e//r37vskbRrSuPn1ZmLkrvpJqX+O1IrhJ5KW0FjJlueoA6DFF4T+k8Piwz92jYTMxILHaPhBdvCmiQtwiYmug==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\matheus.brenner\\Desktop\\testes-integracao.video6.2\\testes-integracao\\src\\Alura.CoisasAFazer.Core\\Alura.CoisasAFazer.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\matheus.brenner\\.nuget\\packages\\mediatr\\7.0.0\\mediatr.7.0.0.nupkg.sha512",
+    "C:\\Users\\matheus.brenner\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\matheus.brenner\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
